@@ -15,12 +15,15 @@ h1, h2{
   color: #3F4F5F;
 }
 
+
+
 .bevezeto{
   margin: 10px 200px;
   text-align: center;
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
+  border-bottom: #3F4F5F solid 1px;
 }
 
 #brikettek{
@@ -55,9 +58,14 @@ p:first-letter{
 }
 
 .kiemelt{
+  font-weight: bold;
   font-style: italic;
 }
 
 li{
   margin-top: 10px;
+}
+
+.kozepre{
+  text-align: center;
 }
